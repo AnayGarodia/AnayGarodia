@@ -17,7 +17,7 @@ I play drums, read Wodehouse between problem sets, and think the most underrated
 
 ### things I like
 
-Roald Dahl and P.G. Wodehouse. Sitcoms I've seen three times and movies I haven't seen once. Beatles songs, especially the ones where they're clearly making it up as they go. A Mathematician's Lament. Linear algebra more than abstract algebra, and analysis more than both. Teaching people things and watching it click. Sidequests. The first ten minutes of any research paper before I realize I need three prerequisite papers. Long walks on the Columbia campus when it's cold enough that nobody else is outside. Kolkata in December.
+Roald Dahl and P.G. Wodehouse. Pokemon. Sitcoms I've seen three times and movies I haven't seen once. Beatles songs, especially the ones where they're clearly making it up as they go. A Mathematician's Lament. Linear algebra more than abstract algebra, and analysis more than both. Teaching people things and watching it click. Sidequests. The first ten minutes of any research paper before I realize I need three prerequisite papers. Long walks on the Columbia campus when it's cold enough that nobody else is outside. Kolkata in December.
 
 ### find me
 
