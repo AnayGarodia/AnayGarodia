@@ -1,6 +1,6 @@
 # Anay Garodia
 
-Math and CS at Columbia. I build tools for coding agents and do research on AI safety and plasma physics.
+Math and CS at Columbia. I build tools for coding agents.
 
 Currently working on [agentweb](https://github.com/AnayGarodia/agentweb), which turns websites into fast CLI commands that any coding agent can use.
 
@@ -8,7 +8,6 @@ Currently working on [agentweb](https://github.com/AnayGarodia/agentweb), which 
 
 - LLM causal reasoning benchmark — ARiSE Lab, Columbia
 - Kolmogorov-Arnold Networks for plasma modeling — Columbia Plasma Physics Lab
-- AI safety research — [Laidlaw Scholars Program](https://lfrp.org.uk/) (summer 2026)
 - Monte Carlo neutron transport for fusion breeding blankets — [Neutronics-Simulation](https://github.com/AnayGarodia/Neutronics-Simulation)
 
 ### Projects
