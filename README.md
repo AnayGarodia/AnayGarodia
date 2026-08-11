@@ -6,6 +6,7 @@ Currently working on [agentweb](https://github.com/AnayGarodia/agentweb), which 
 
 ### Projects
 
+- [sketchling](https://github.com/AnayGarodia/sketchling) — hand-drawn illustration and animation library for coding agents
 - [agentweb](https://github.com/AnayGarodia/agentweb) — websites as CLI commands for coding agents
 - [Sisyphus](https://github.com/AnayGarodia/Sisyphus) — terminal-based browser automation agent with a REPL interface
 - [Dorian](https://github.com/AnayGarodia/dorian) — visual workflow editor for building AI agents
